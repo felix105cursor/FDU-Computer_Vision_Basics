@@ -1,4 +1,4 @@
-# FDU-CV2025fall (COMP130124.01)
+# FDU-CV2025fall
 
 ## Lab1: Pytorch Tutorial & CNN network
 **File:** 
